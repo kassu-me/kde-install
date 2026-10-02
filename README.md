@@ -10,14 +10,14 @@ Arch KDE minimal
     sddm sddm-kcm
 
     # Audio
-    pipewire pipewire-pulse pipewire-alsa wireplumber sof-firmware
+    pipewire pipewire-pulse pipewire-alsa wireplumber
 
     # Theming support
     breeze breeze-gtk kde-gtk-config kvantum qt6-svg
 
     # Core apps
-    dolphin konsole kate ark spectacle kio-extras kio-admin
-    kdegraphics-thumbnailers ffmpegthumbs gwenview
+    dolphin konsole kate ark spectacle gwenview kio-extras kio-admin
+    kdegraphics-thumbnailers ffmpegthumbs
 
     # Fonts
     noto-fonts noto-fonts-emoji ttf-dejavu
@@ -26,5 +26,5 @@ Arch KDE minimal
     mesa intel-media-driver vulkan-intel tlp
 
     # Tools
-    git base-devel xdg-user-dirs
+    xdg-user-dirs
 
