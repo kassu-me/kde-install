@@ -3,7 +3,7 @@
 # Assumes git is already installed (you used it to pull this script).
 # Clones yay-bin into ~/sources, installs it, then installs the KDE packages.
 # Run as a normal user with sudo rights (not as root):
-#   chmod +x kde-minimal.sh && ./kde-minimal.sh
+#   chmod +x kde-install.sh && ./kde-install.sh
 
 set -euo pipefail
 
