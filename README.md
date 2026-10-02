@@ -17,7 +17,7 @@ Arch KDE minimal
 
     # Core apps
     dolphin konsole kate ark spectacle kio-extras kio-admin
-    kdegraphics-thumbnailers ffmpegthumbs
+    kdegraphics-thumbnailers ffmpegthumbs gwenview
 
     # Fonts
     noto-fonts noto-fonts-emoji ttf-dejavu
